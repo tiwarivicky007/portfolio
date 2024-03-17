@@ -14,7 +14,7 @@ const Skills = () => {
                 <img src={UIDesign} alt="UI Design" className="skillBarImg" />
                 <div className="skillBarText">
                     <h2>UI/UX Design</h2>
-                    <p>This is a demo content here, You can write your own content here</p>
+                    <p>Passionate UI/UX developer dedicated to crafting seamless digital experiences that blend aesthetic appeal with user-centric design principles. Proficient in leveraging cutting-edge technologies to deliver intuitive interfaces that elevate user engagement and satisfaction.</p>
                 </div>
             </div>
             <div className="skillBar">
