@@ -14,21 +14,21 @@ const Skills = () => {
                 <img src={UIDesign} alt="UI Design" className="skillBarImg" />
                 <div className="skillBarText">
                     <h2>UI/UX Design</h2>
-                    <p>Passionate UI/UX developer dedicated to crafting seamless digital experiences that blend aesthetic appeal with user-centric design principles. Proficient in leveraging cutting-edge technologies to deliver intuitive interfaces that elevate user engagement and satisfaction.</p>
+                    <p>Passionate UI/UX developer dedicated to crafting immersive digital experiences. Combining creativity with user-centric design principles to elevate engagement and usability</p>
                 </div>
             </div>
             <div className="skillBar">
                 <img src={WebDesign} alt="Web Design" className="skillBarImg" />
                 <div className="skillBarText">
                     <h2>Website Design</h2>
-                    <p>Empowering businesses with captivating website designs that harmonize aesthetics and functionality. Crafting immersive digital experiences that resonate with audiences and drive meaningful engagement.</p>
+                    <p>Transforming ideas into captivating online experiences with innovative website design. Seamlessly blending aesthetics and functionality to create impactful digital presences</p>
                 </div>
             </div>
             <div className="skillBar">
                 <img src={AppDesign} alt="App Design" className="skillBarImg" />
                 <div className="skillBarText">
                     <h2>App Design</h2>
-                    <p>Crafting intuitive app designs that seamlessly blend form and function, enriching user experiences. Leveraging creativity and user-centric approaches to deliver engaging digital solutions that inspire and captivate.</p>
+                    <p>Elevating user experiences through meticulous app design. Fusing creativity and usability to craft intuitive digital solutions that resonate with audiences.</p>
                 </div>
             </div>
         </div>
